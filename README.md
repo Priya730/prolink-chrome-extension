@@ -21,6 +21,8 @@ As a college student, I want a Chrome extension that allows me to access all my 
 ## Description
 The Profile Search Chrome Extension allows you to access all your social media profiles in one click. This extension provides a convenient and efficient way to manage your online presence by storing and organizing your profile links in a single, easy-to-use interface.
 
+<img width="399" alt="Screenshot 2024-07-20 at 10 55 26 AM" src="https://github.com/user-attachments/assets/a9b6b770-7856-4b33-b79e-2ededd9a8f33">
+
 ## Features
 - One-click access to all your social media profiles.
 - Customizable profile list: Add or remove profiles as needed.
