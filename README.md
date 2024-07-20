@@ -17,6 +17,22 @@
   </p>
 </p>
 
+As a college student, I want a Chrome extension that allows me to access all my social media profiles in one click, so that I can easily manage and navigate my online presence without wasting time searching for individual profile links.
+## Description
+The Profile Search Chrome Extension allows you to access all your social media profiles in one click. This extension provides a convenient and efficient way to manage your online presence by storing and organizing your profile links in a single, easy-to-use interface.
+
+## Features
+- One-click access to all your social media profiles.
+- Customizable profile list: Add or remove profiles as needed.
+- User-friendly interface for easy navigation.
+## Installation
+- Download the Extension: Download the .zip of this repo.
+- Extract the Files: Extract the contents of the .zip file to a directory on your computer.
+- Load Extension in Chrome:
+    - Open Chrome and go to chrome://extensions/.
+    - Enable "Developer mode" by toggling the switch in the top right corner.
+    - Click "Load unpacked" and select the directory where you extracted the extension files.
+
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -31,6 +47,6 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Priya Srivastava - [@shivikapriya](https://twitter.com/shivikapriya) - shivikapriya730@gmail.com
+Priya Srivastava - [@shivikapriya](https://twitter.com/shivikapriya)
 
 Project Link: [https://github.com/Priya730/prolink](https://github.com/Priya730/prolink)
